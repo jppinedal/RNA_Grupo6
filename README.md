@@ -1,2 +1,5 @@
 # RNA_Grupo6
-RNA y Algo. Bioinsp. 2024-02
+Redes Neuronales y Algoritmos Bioinspirados. 2024-02
+
+##Integrantes:
+ * Andrés Felipe Parra Naranjo
